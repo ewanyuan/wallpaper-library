@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+cache/
+wallpaper_app.log
+preferences.json
+favorites.json
+history.json
+uploads/
+build/
+dist/
+.build-venv/
